@@ -30,4 +30,4 @@ Faça push para a branch (git push origin feature/sua-feature).
 Crie um pull request para revisão.
 
 ## Autor
-Este jogo foi desenvolvido por Kevin Reys
+A estrutura do jogo foi desenvolvido por Kevin Reys
