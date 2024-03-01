@@ -1,4 +1,4 @@
-## Tic-Tac-Toe (Tic-Tac-Toe)
+## Tic-Tac-Toe
 This is a simple tic-tac-toe game (Tic-Tac-Toe) developed in HTML, CSS and JavaScript.
 A basic implementation to have fun playing the classic strategy game.
 
