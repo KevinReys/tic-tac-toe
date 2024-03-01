@@ -1,33 +1,33 @@
-## Tic-Tac-Toe (Jogo da Velha)
-Este é um simples jogo da velha (Tic-Tac-Toe) desenvolvido em HTML, CSS e JavaScript. 
-Uma implementação básica para se divertir jogando o clássico jogo de estratégia.
+## Tic-Tac-Toe (Tic-Tac-Toe)
+This is a simple tic-tac-toe game (Tic-Tac-Toe) developed in HTML, CSS and JavaScript.
+A basic implementation to have fun playing the classic strategy game.
 
-## Instruções de Uso
-Abra o arquivo index.html em um navegador web.
-Clique nos botões na área de jogo para fazer suas jogadas.
-O jogo indica o jogador atual e exibe o vencedor ou empate.
+## Instructions for use
+Open the index.html file in a web browser.
+Click on the buttons in the game area to make your moves.
+The game indicates the current player and displays the winner or draw.
 
-## Estrutura do Projeto
-index.html: Página principal do jogo.
-style.css: Estilos para a aparência do jogo.
-script.js: Lógica do jogo implementada em JavaScript.
+## Project Structure
+index.html: Main page of the game.
+style.css: Styles for the game's appearance.
+script.js: Game logic implemented in JavaScript.
 
-## Funcionalidades
-Jogo da Velha interativo para dois jogadores.
-Indicação do jogador atual.
-Mensagens de vitória, derrota ou empate.
-Desenvolvido por Kevin Reys.
+## Functionalities
+Interactive Tic Tac Toe for two players.
+Indication of the current player.
+Win, lose or draw messages.
+Developed by Kevin Reys.
 
-## Como Contribuir
-Sinta-se à vontade para contribuir com melhorias ou correções. Basta seguir estas etapas:
+## How to Contribute
+Feel free to contribute improvements or corrections. Just follow these steps:
 
-Faça um fork do repositório.
-Clone o fork para o seu ambiente local.
-Crie uma branch para suas modificações (git checkout -b feature/sua-feature).
-Faça as alterações desejadas e comente-as adequadamente.
-Faça o commit das alterações (git commit -m 'Adiciona nova funcionalidade').
-Faça push para a branch (git push origin feature/sua-feature).
-Crie um pull request para revisão.
+Fork the repository.
+Clone the fork to your local environment.
+Create a branch for your changes (git checkout -b feature/sua-feature).
+Make the desired changes and comment them accordingly.
+Commit the changes (git commit -m 'Add new functionality').
+Push to the branch (git push origin feature/sua-feature).
+Create a pull request for review.
 
-## Autor
-A estrutura do jogo foi desenvolvido por Kevin Reys
+## Author
+The game structure was developed by Kevin Reys
